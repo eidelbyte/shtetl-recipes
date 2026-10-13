@@ -8,5 +8,7 @@ the config root.
 - `foundations/`, `containers/`, `systems/`: recipes, a file each.
   Upstream ships none yet.
 
-This directory is the seed of the zshtetl-recipes repository until
-that repository exists; it lives in shtetl's own tree meanwhile.
+This is its own repository, split out of shtetl's tree with its
+history (github.com/eidelbyte/shtetl, where it began as
+shtetl-recipes/). shtetl's planning.md, 4.4 and 5.4, says what it is
+for and how a site keeps its own files in it.
