@@ -3,5 +3,6 @@
 # Only what upstream ships is tracked.
 /*
 !/.gitignore
+!/LICENSE
 !/README.md
 !/shtetl.conf
